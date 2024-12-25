@@ -1,0 +1,4 @@
+our project is to check if the data required from us is true or false like email and password
+so bye use flask framework we use jinja to create the form 
+and also we use wtform to create form like password and email and login
+and thin we check it 
